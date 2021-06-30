@@ -38,7 +38,8 @@ Keys:
 + A - Resets the current level.
 + N - Go to the next level (can only be used if the current level has been completed).
 + W - Move the bow up.
-+ S - Move the bow down. Left Click (Hold and Release) - Archery to the cursor.
++ S - Move the bow down.
++ Left Click (Hold and Release) - Shoot with the bow.
 + T - Stop / Resume time.
 + K - Starts / Stops cheating mode.
 + 1-6 - Jump to another level (valid only in cheat mode).
