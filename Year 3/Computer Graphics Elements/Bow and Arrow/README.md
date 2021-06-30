@@ -24,7 +24,7 @@ Arrows and targets do not move. The screen will turn green.
 The top bar is golden when the time stop can be activated.
 After it is activated its length decreases until it is 0, and time will resume.
 The bar will turn gray and increase until time can be stopped again, and it will turn golden again.
--------------------------------------------------- ----------------------------
+-------------------------------------------------------------------------------
 Target types:
 1) Red Balloon - Gives 10 points when popped.
 2) Yellow Balloon - Decreases 10 points when popped.
@@ -32,7 +32,7 @@ Target types:
 4) Blue Balloon - The player's bow will shoot with three arrows instead of one after this balloon is popped. This ability can be used once given for each blue balloon.
 5) Blue Shuriken - Gives 5 points if destroyed by an arrow. The player loses a life if the shuriken touches the bow.
 6) Magenta Shuriken - Gives 5 points if destroyed by an arrow. The player loses a life if the shuriken touches the bow. Reflects all arrows that hit it.
--------------------------------------------------- ----------------------------
+-------------------------------------------------------------------------------
 Keys:
 + P - Pause.
 + A - Resets the current level.
@@ -42,4 +42,4 @@ Keys:
 + T - Stop / Resume time.
 + K - Starts / Stops cheating mode.
 + 1-6 - Jump to another level (valid only in cheat mode).
--------------------------------------------------- ----------------------------
+-------------------------------------------------------------------------------
