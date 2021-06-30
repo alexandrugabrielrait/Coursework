@@ -1,7 +1,7 @@
 Raiț Alexandru Gabriel
 Group: 335CB
 --------------------
-# Computer Graphics Elements Computer Graphics Elements, Homework 1 #
+# Computer Graphics Elements, Homework 1 #
 ## Bow and Arrow ##
 -------------------------------------------------------------------------------
 Details:
