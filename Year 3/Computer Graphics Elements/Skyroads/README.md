@@ -4,9 +4,8 @@ Group: 335CB
 # Computer Graphics Elements, Homework 2 #
 ## Skyroads ##
 -------------------------------------------------------------------------------
-Details:
---------------------
 Endless runner similar to Skyroads or Subway Surfers.
+
 Features different platform types.
 -------------------------------------------------------------------------------
 Keys:
