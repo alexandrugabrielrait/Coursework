@@ -5,7 +5,6 @@ Group: 335CB
 ## Skyroads ##
 -------------------------------------------------------------------------------
 Endless runner similar to Skyroads or Subway Surfers.
-
 Features different platform types.
 -------------------------------------------------------------------------------
 Keys:
