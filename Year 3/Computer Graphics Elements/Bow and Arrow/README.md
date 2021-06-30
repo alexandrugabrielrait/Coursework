@@ -13,6 +13,7 @@ The speed of the arrow is represented in 3 ways:
 1) Power Bar that is initially blue and grows, becoming purple when the maximum speed is reached.
 2) The tip of the arrow which is initially yellow and turns red by passing through orange.
 3) The bow thread that is initially white and becomes purple when the maximum speed is reached.
+
 The score is displayed in the console.
 There are 6 levels that introduce various elements.
 Each level has lists of targets mapped using the second they spawn.
